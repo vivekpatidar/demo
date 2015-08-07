@@ -2,4 +2,12 @@ package com.vivekpatidar;
 
 public class Main {
 
+<<<<<<< HEAD
+double d;
+=======
+int i;
+
+long l
+>>>>>>> ff9e7854aa6523efacd440beca9e6b2fc1e62a60
+
 }
