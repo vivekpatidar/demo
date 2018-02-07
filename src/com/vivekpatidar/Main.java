@@ -5,7 +5,7 @@ public class Main {
 
 double f;
 
-int i;
+int k;
 
 long l
 
